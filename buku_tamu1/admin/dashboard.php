@@ -138,7 +138,7 @@ $username = $admin['username']; // Menyimpan username admin ke variabel
       <li><a href="t_admin.php"><i class="fas fa-user-shield"></i> Admin</a></li> <!-- Link ke halaman admin -->
       <li><a href="../tamu/tamu.php"><i class="fas fa-users"></i> Tamu</a></li> <!-- Link ke halaman tamu -->
       <li><a href="../tamu/kehadiran.php"><i class="fas fa-user-check"></i> Kehadiran</a></li> <!-- Link ke halaman kehadiran -->
-      <li><a href="#"><i class="fas fa-file-alt"></i> Laporan</a></li> <!-- Link ke halaman laporan -->
+      <li><a href="../laporan/laporan.php"><i class="fas fa-file-alt"></i> Laporan</a></li> <!-- Link ke halaman laporan -->
       <li><a href="logout.php"><i class="fas fa-sign-out-alt"></i> Logout</a></li> <!-- Link untuk logout -->
     </ul>
   </div>
